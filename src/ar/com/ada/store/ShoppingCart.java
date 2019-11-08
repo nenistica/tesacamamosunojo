@@ -1,6 +1,8 @@
 
 package ar.com.ada.store;
 
+import ar.com.ada.store.categories.Product;
+
 import java.util.ArrayList;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
